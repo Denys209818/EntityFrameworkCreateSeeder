@@ -1,0 +1,12 @@
+C:\Users\Denis\Desktop\Новая папка C#\EFCreateSeeder\EFCreateSeeder.DAL\bin\Debug\netcoreapp3.1\EFCreateSeeder.DAL.deps.json
+C:\Users\Denis\Desktop\Новая папка C#\EFCreateSeeder\EFCreateSeeder.DAL\bin\Debug\netcoreapp3.1\EFCreateSeeder.DAL.runtimeconfig.json
+C:\Users\Denis\Desktop\Новая папка C#\EFCreateSeeder\EFCreateSeeder.DAL\bin\Debug\netcoreapp3.1\EFCreateSeeder.DAL.runtimeconfig.dev.json
+C:\Users\Denis\Desktop\Новая папка C#\EFCreateSeeder\EFCreateSeeder.DAL\bin\Debug\netcoreapp3.1\EFCreateSeeder.DAL.dll
+C:\Users\Denis\Desktop\Новая папка C#\EFCreateSeeder\EFCreateSeeder.DAL\bin\Debug\netcoreapp3.1\EFCreateSeeder.DAL.pdb
+C:\Users\Denis\Desktop\Новая папка C#\EFCreateSeeder\EFCreateSeeder.DAL\obj\Debug\netcoreapp3.1\EFCreateSeeder.DAL.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\Новая папка C#\EFCreateSeeder\EFCreateSeeder.DAL\obj\Debug\netcoreapp3.1\EFCreateSeeder.DAL.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Новая папка C#\EFCreateSeeder\EFCreateSeeder.DAL\obj\Debug\netcoreapp3.1\EFCreateSeeder.DAL.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Новая папка C#\EFCreateSeeder\EFCreateSeeder.DAL\obj\Debug\netcoreapp3.1\EFCreateSeeder.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Новая папка C#\EFCreateSeeder\EFCreateSeeder.DAL\obj\Debug\netcoreapp3.1\EFCreateSeeder.DAL.dll
+C:\Users\Denis\Desktop\Новая папка C#\EFCreateSeeder\EFCreateSeeder.DAL\obj\Debug\netcoreapp3.1\EFCreateSeeder.DAL.pdb
+C:\Users\Denis\Desktop\Новая папка C#\EFCreateSeeder\EFCreateSeeder.DAL\obj\Debug\netcoreapp3.1\EFCreateSeeder.DAL.genruntimeconfig.cache
